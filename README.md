@@ -1,54 +1,64 @@
-# 嘿哈土豆 · 徐玉欣 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0E5C50&center=true&pause=100000&lines=Hi%2C+I%E2%80%99m+%E5%98%BF%E5%93%88%E5%9C%9F%E8%B1%86.+LLM+Product+Manager" alt="Hi"/>
+  <p>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
+    <strong>正在求职：大模型方向产品实习 → 大模型 PM 全职</strong>
+  </p>
 
-> **大模型方向产品经理** · 海南大学 2026 届 · 大数据管理与应用
-> 正在求职：**大模型方向产品实习 → 大模型 PM 全职**
+  <p>
+    <code>🎓 海南大学 2026 届 · 大数据管理与应用</code>
+    <code>📍 1.5 年上市公司 PM · 功能服务 200 万+ 用户</code>
+  </p>
 
-关注 AI，也关注真实场景。我相信 **"可信比聪明更重要"** —— 无论是 AI 产品、还是我做的每一件事。
+  <p>
+    <em>"AI 这么聪明了，为什么用户还是不信它？"</em> —— 我的三个独立产品，都在回答这个问题。
+  </p>
 
-## 🧭 一句话介绍
+  <p>
+    <a href="https://1191091728-bot.github.io/"><img src="https://img.shields.io/badge/作品集-Portfolio-0E5C50?style=for-the-badge"/></a>
+    <a href="mailto:1191091728@qq.com"><img src="https://img.shields.io/badge/邮箱-Email-B89254?style=for-the-badge"/></a>
+  </p>
+</div>
 
-1.5 年上市公司 PM 一线经验，做过的功能服务 **200 万+ 用户**；用最近半年独立完成 **3 个产品**（PRD → Vibe Coding Demo），每一个都在回答同一个问题：**"AI 这么聪明了，为什么用户还是不信它？"**
+<table>
+<tr>
+<td valign="top" width="50%">
+  
+#### 💼 工作经历
+  
+#### 🎓 教育经历
 
-## 🎯 核心能力
+> 📄 [查看完整 PRD →](https://1191091728-bot.github.io/pharma-prd.pdf)
 
-| 能力 | 说明 |
-| --- | --- |
-| 📋 PM 产品定义 | 把模糊需求拆成场景、链路与边界，输出 PRD、用户故事和验收标准 |
-| 🤖 大模型应用 | 多智能体协同、Prompt 工程、模型调度与回退策略 |
-| 🔍 RAG 与可信 | 外挂知识库、内容核验、溯源链路——让 AI 的答案"敢被采信" |
-| ⚡ Vibe Coding | 独立用 AI 完成可玩 Demo / 工具站 / 概念页，想法最快 4 小时跑出来 |
-| 🧑‍🤝‍🧑 用户研究 | 问卷 + 访谈 + 横评，把"我觉得"变成"用户说" |
+<p>
+<strong>上市公司</strong> -- <code>产品经理 · 用户增长/留存/内容运营</code> -- <code>2023 – 2024 · 1.5 年</code><br/>
+<strong>海南大学</strong> -- <code>大数据管理与应用 · 211 本科</code> -- <code>2022 – 2026</code><br/>
+<strong>国创赛 · 药链通</strong> -- <code>AB 跨域三智能体 · 区块链溯源</code> -- <code>2026 · 备战终审</code><br/>
+<strong>毕业论文</strong> -- <code>统计分析与机器学习的多疾病健康数据分析</code> -- <code>2026.06 · 已答辩</code><br/>
+</p>
 
-## 🏆 主力作品
+</td>
+<td valign="top" width="48%">
 
-### 医药多智能体 AI 助手 · PRD V1.1 ⭐ 主力作品
-- **13 页完整 PRD**：三智能体协同（问答 Agent + RAG Agent + Verifier Agent）+ 区块链溯源，每条结论都能追到源头
-- 用户调研验证：24 份问卷 + 8 场访谈，7 题盲评 **9.2/10**（对比通义 / GPT-3.5 / 药智数据），双域命中率 86%
-- 📄 [查看完整 PRD](./pharma-prd.pdf) | 🌐 [作品集详情](https://1191091728-bot.github.io/#featured)
+#### 🏆 主力作品
 
-### Health Timeline · 健康时间轴 🏠
-- 拍照 → OCR 结构化 → 大白话解读 → 跨年份趋势 → 自然语言问答，帮爸妈看懂化验单
-- 技术：OCR + LLM · 本地优先 · 合规边界
-- 🎮 [体验 Demo](https://1191091728-bot.github.io/health-timeline/)
+> 🎮 [作品集网站 →](https://1191091728-bot.github.io/)
 
-### 养只你 · 陪伴打卡 🐱
-- 任务完成度 → 宠物升级 / 解锁服装，全正向反馈机制（方案评审中推翻了自己"卡路里超标→宠物变胖"的强反馈设计）
-- 技术：番茄钟 · 角色养成 · 情感化设计
-- 🎮 [体验 Demo](https://1191091728-bot.github.io/yangzhini/)
+- 📋 **医药多智能体 AI 助手 PRD V1.1** — 13 页完整 PRD · 三智能体协同（问答 + RAG + Verifier）· 区块链溯源 · 盲评 9.2/10
+- 🏠 **Health Timeline 健康时间轴** — OCR + LLM · 跨年份趋势 · 本地优先合规 · [🎮 Demo](https://1191091728-bot.github.io/health-timeline/)
+- 🐱 **养只你 陪伴打卡** — 全正向反馈 · 角色养成 · 番茄钟 · 用户研究 · [🎮 Demo](https://1191091728-bot.github.io/yangzhini/)
+- 🏅 **药链通 国创赛项目** — 处方药 + 美妆品双品类 · 16 页答辩 PPT
 
-### 药链通 · 国创赛项目 🏅
-- 医药多智能体助手的"国创赛升级版"：AB 跨域三智能体 + 区块链溯源 + 处方药与美妆品双品类
-- 已完成 16 页正式答辩 PPT，备战终审
+#### ⚡ 核心能力
 
-## 🌐 作品集网站
+- 📋 PM 产品定义 · 🤖 大模型应用 · 🔍 RAG 与可信 · ⚡ Vibe Coding · 🧑‍🤝‍🧑 用户研究
 
-👉 **[嘿哈土豆 · 大模型方向产品经理作品集](https://1191091728-bot.github.io/)** —— 完整叙事版作品集：项目复盘、能力拆解、学习现场、视觉系统
-
-## 📬 联系我
-
-- 📧 邮箱：**1191091728@qq.com**（工作日 24h 内必回）
-- 💼 期待：大模型方向产品实习 / 全职机会
-- 💬 欢迎聊聊："AI 这么聪明了，用户为什么还不信它？"
+</td>
+</tr>
+</table>
 
 ---
+
+📧 **邮箱：** 1191091728@qq.com（工作日 24h 内必回） · 欢迎聊聊 offer、面试，或"AI 这么聪明了用户为什么还不信它"
+
 *© 2026 嘿哈土豆 · 徐玉欣 · 海南大学 2026 届 · 大数据管理与应用*
