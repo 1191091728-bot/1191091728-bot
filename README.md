@@ -44,10 +44,10 @@
 
 > 🎮 [作品集网站 →](https://1191091728-bot.github.io/)
 
-- 📋 **医药多智能体 AI 助手 PRD V1.1** — 13 页完整 PRD · 三智能体协同（问答 + RAG + Verifier）· 区块链溯源 · 盲评 9.2/10
-- 🏠 **Health Timeline 健康时间轴** — OCR + LLM · 跨年份趋势 · 本地优先合规 · [🎮 Demo](https://1191091728-bot.github.io/health-timeline/)
-- 🐱 **养只你 陪伴打卡** — 全正向反馈 · 角色养成 · 番茄钟 · 用户研究 · [🎮 Demo](https://1191091728-bot.github.io/yangzhini/)
-- 🏅 **药链通 国创赛项目** — 处方药 + 美妆品双品类 · 16 页答辩 PPT
+- 📋 **[medical-multi-agent](https://github.com/1191091728-bot/medical-multi-agent)** — 医药多智能体 AI 助手 PRD V1.1 · 13 页 · 三智能体协同（问答 + RAG + Verifier）· 区块链溯源 · 盲评 9.2/10
+- 🏠 **[health-timeline](https://github.com/1191091728-bot/health-timeline)** — 健康时间轴 Demo · OCR + LLM · 跨年份趋势 · [🎮 在线体验](https://1191091728-bot.github.io/health-timeline/)
+- 🐱 **[yangzhini](https://github.com/1191091728-bot/yangzhini)** — 养只你 陪伴打卡 Demo · 全正向反馈 · 角色养成 · [🎮 在线体验](https://1191091728-bot.github.io/yangzhini/)
+- 🏅 **[pharma-chain](https://github.com/1191091728-bot/pharma-chain)** — 药链通 国创赛 · AB 跨域三智能体 · 区块链溯源 · 处方药+美妆品
 
 #### ⚡ 核心能力
 
