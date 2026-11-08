@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0E5C50&center=true&pause=100000&lines=Hi%2C+I%E2%80%99m+%E5%98%BF%E5%93%88%E5%9C%9F%E8%B1%86.+AI+Product+%26+Growth" alt="Hi"/>
   <p>
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
+    <img src="https://cdn.jsdelivr.net/gh/1191091728-bot/1191091728-bot@main/assets/wave.gif" alt="👋" width="28px" height="28px"/>
     <strong>正在求职：AI 产品 / 内容增长方向实习</strong> · 大二在读 · 每周可出勤 5 天 · 随时到岗
   </p>
 
