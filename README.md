@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0E5C50&center=true&pause=100000&lines=Hi%2C+I%E2%80%99m+%E5%98%BF%E5%93%88%E5%9C%9F%E8%B1%86.+LLM+Product+Manager" alt="Hi"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0E5C50&center=true&pause=100000&lines=Hi%2C+I%E2%80%99m+%E5%98%BF%E5%93%88%E5%9C%9F%E8%B1%86.+AI+Product+%26+Growth" alt="Hi"/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
-    <strong>正在求职：大模型方向产品实习 → 大模型 PM 全职</strong>
+    <strong>正在求职：AI 产品 / 内容增长方向实习</strong> · 大二在读 · 每周可出勤 5 天 · 随时到岗
   </p>
 
   <p>
-    <code>🎓 海南大学 2029届 · 大数据管理与应用</code>
-    <code>📍 1.5 年上市公司 PM · 功能服务 200 万+ 用户</code>
+    <code>🎓 海南大学 2029 届 · 本科在读（大二）</code>
+    <code>📍 AI 产品 × 内容增长 · 61 篇笔记 35 万+ 浏览</code>
   </p>
 
   <p>
@@ -31,10 +31,10 @@
 > 📄 [查看完整 PRD →](https://1191091728-bot.github.io/pharma-prd.pdf)
 
 <p>
-<strong>上市公司</strong> -- <code>产品经理 · 用户增长/留存/内容运营</code> -- <code>2023 – 2024 · 1.5 年</code><br/>
-<strong>海南大学</strong> -- <code>大数据管理与应用 · 211 本科</code> -- <code>2022 – 2026</code><br/>
-<strong>国创赛 · 药链通</strong> -- <code>AB 跨域三智能体 · 区块链溯源</code> -- <code>2026 · 备战终审</code><br/>
-<strong>毕业论文</strong> -- <code>统计分析与机器学习的多疾病健康数据分析</code> -- <code>2026.06 · 已答辩</code><br/>
+<strong>Arti</strong> -- <code>社媒运营 · 3 个垂类社群 × 200 人</code> -- <code>2026 – 至今</code><br/>
+<strong>KOL/KOC 内容增长</strong> -- <code>61 篇笔记 · 35 万+ 浏览 · 8 篇千赞</code> -- <code>2025.11 – 2026.5</code><br/>
+<strong>海南大学</strong> -- <code>本科在读（大二）· 211 本科</code> -- <code>2025 – 2029</code><br/>
+<strong>Health Timeline</strong> -- <code>产品负责人 · 星火共创奖</code> -- <code>2025.10 – 至今</code><br/>
 </p>
 
 </td>
@@ -51,7 +51,7 @@
 
 #### ⚡ 核心能力
 
-- 📋 PM 产品定义 · 🤖 大模型应用 · 🔍 RAG 与可信 · ⚡ Vibe Coding · 🧑‍🤝‍🧑 用户研究
+- 📈 内容增长 · 🧑‍🤝‍🧑 用户运营 · 🔍 用户洞察 · 🧪 A/B 测试与漏斗归因 · 🤖 AI 产品落地
 
 </td>
 </tr>
@@ -61,4 +61,4 @@
 
 📧 **邮箱：** 1191091728@qq.com（工作日 24h 内必回） · 欢迎聊聊 offer、面试，或"AI 这么聪明了用户为什么还不信它"
 
-*© 嘿哈土豆 · 海南大学 2029届 · 大数据管理与应用*
+*© 嘿哈土豆 · 徐玉欣 · 海南大学 2029 届本科在读（大二）*
